@@ -1,0 +1,21 @@
+
+
+textCardConfig = {
+
+    
+  text: {
+    size: 12,
+    breakEvery: 6,
+    position: "centered",
+    animation: "grow"
+  },    
+
+  background: {
+    color: "green",
+    border: "round",
+    shadow: true
+  },
+  
+  
+  
+}
